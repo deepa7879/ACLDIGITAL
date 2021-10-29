@@ -6,9 +6,9 @@ int main() {
    printf("\nEnter two no: ");
    scanf("%d %d", &a, &b);
 
-   diff = a + b;
+   diff = a - b;
 
    printf("Diff : %d", diff);
 
-   return(0);
+   
 }
